@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "JHDQ2CRC3V.com.azoft.deeplinktest",
-                "paths": [ "/DeepLinks/test/*"]
+                "paths": [ "/DeepLinks/test"]
             }
         ]
     }
